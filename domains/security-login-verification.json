@@ -1,0 +1,20 @@
+{
+  "description": "Security Testing Domain",
+  "domain": "security-login-verification.is-a-dev",
+  "subdomain": "@",
+  "owner": {
+
+    "username": "Emmaco77",
+    "repo":"https://github.com/Emmaco77/register"
+
+    "email": "akinbolaemmanuel77@gmail.com"
+
+  },
+
+  "records": {
+
+    "A": ["105.119.29.68"],
+
+  }
+
+}
