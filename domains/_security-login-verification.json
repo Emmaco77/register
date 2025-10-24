@@ -1,0 +1,20 @@
+{
+
+  "description":"Security testing domain",
+  "domain": "security-portal.is-a.dev",
+  "subdomain":"_",
+  "owner": {
+
+    "username": "Emmaco77",
+    "repo":"https://github.com/Emmaco77/register",
+    "email": "akinbolaemmanuel77@gmail.com"
+
+  },
+
+  "records": {
+
+    "A": ["105.119.19.177"]
+
+  }
+
+}
